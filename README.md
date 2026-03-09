@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=HexaDEV&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Network%20%26%20Cybersecurity%20%7C%20Web%20Dev%20%7C%20FiveM%20%7C%20Discord&descSize=18&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=HexaDEV&amp;fontSize=80&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Network%20%26%20Cybersecurity%20%7C%20Web%20Dev%20%7C%20FiveM%20%7C%20Discord&amp;descSize=18&amp;descAlignY=55" width="100%" />
 
-<a href="https://store.hexadev.be"><img src="https://img.shields.io/badge/HexaStore-store.hexadev.be-blueviolet?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
+<a href="https://store.hexadev.be"><img src="https://img.shields.io/badge/HexaStore-store.hexadev.be-blueviolet?style=for-the-badge&amp;logo=firefox-browser&amp;logoColor=white" /></a>
 
 ---
 
 ### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=ts,lua,nextjs,react,nodejs,postgres,mysql,tailwind,linux,debian,docker,git&perline=6" />
+<img src="https://skillicons.dev/icons?i=ts,lua,nextjs,react,nodejs,postgres,mysql,tailwind,linux,debian,docker,git&amp;perline=6" />
 
 ---
 
@@ -65,7 +65,7 @@
 
 ---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HexaCorps&theme=tokyonight&hide_border=true&background=0d1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HexaCorps&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117" />
 
 <br/>
 
@@ -77,9 +77,8 @@
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=HexaCorps&color=blueviolet&style=flat-square&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=HexaCorps&amp;color=blueviolet&amp;style=flat-square&amp;label=Profile+Views" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer" width="100%" />
 
 </div>
-
