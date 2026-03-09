@@ -2,7 +2,7 @@
 
 # HexaDEV
 
-**Network & Cybersecurity Student • Web Dev & Automation • Debian/Linux • FiveM Resources • Discord Integrations**
+**Network & Cybersecurity Student | Web Dev & Automation | Debian/Linux | FiveM Resources | Discord Integrations**
 
 ---
 
@@ -14,16 +14,16 @@
 
 ### What I Build
 
-```
-🎮 FiveM Resources     Custom scripts, NUI interfaces, multi-framework support
-🤖 Discord Bots        Advanced bots with slash commands, PostgreSQL, handlers
-🌐 Web Applications    Next.js dashboards, stores, client panels
-🔒 Cybersecurity       Network security, automation, Linux administration
-```
+| | Domain | Details |
+|:-:|--------|---------|
+| :video_game: | **FiveM Resources** | Custom scripts, NUI interfaces, multi-framework support |
+| :robot: | **Discord Bots** | Advanced bots with slash commands, PostgreSQL, handlers |
+| :globe_with_meridians: | **Web Applications** | Next.js dashboards, stores, client panels |
+| :lock: | **Cybersecurity** | Network security, automation, Linux administration |
 
 ---
 
-### FiveM Ecosystem
+### FiveM Ecosystem — 28 Resources
 
 | Resource | Description |
 |----------|-------------|
@@ -35,7 +35,7 @@
 | **hx_menu** | NUI Menu System |
 | **hx_banking** | Banking System |
 | **hx_notify** | Notification System |
-| *+ 16 more resources* | Chat, Emotes, Fuel, Skin, Clothing, Billing... |
+| *+ 16 more* | *Chat, Emotes, Fuel, Skin, Clothing, Billing, Weather, Interactions...* |
 
 ### Discord Bots
 
@@ -56,9 +56,16 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=HexaCorps&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+### Numbers
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HexaCorps&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+| | |
+|:-:|:-:|
+| **31+** Repositories | **28** FiveM Resources |
+| **3** Discord Bots | **4** Web Apps |
+
+---
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HexaCorps&theme=tokyonight&hide_border=true&background=0d1117" />
 
 ---
 
