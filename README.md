@@ -1,14 +1,14 @@
 <div align="center">
 
-# HexaDEV
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=HexaDEV&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Network%20%26%20Cybersecurity%20%7C%20Web%20Dev%20%7C%20FiveM%20%7C%20Discord&descSize=18&descAlignY=55" width="100%" />
 
-**Network & Cybersecurity Student | Web Dev & Automation | Debian/Linux | FiveM Resources | Discord Integrations**
+<a href="https://store.hexadev.be"><img src="https://img.shields.io/badge/HexaStore-store.hexadev.be-blueviolet?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
 
 ---
 
 ### Tech Stack
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=ts,lua,nextjs,react,nodejs,postgres,mysql,tailwind,linux,debian,docker,git&perline=6" />
 
 ---
 
@@ -67,8 +67,18 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HexaCorps&theme=tokyonight&hide_border=true&background=0d1117" />
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HexaCorps/HexaCorps/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HexaCorps/HexaCorps/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/HexaCorps/HexaCorps/output/github-snake-dark.svg" width="100%" />
+</picture>
+
 ---
 
 <img src="https://komarev.com/ghpvc/?username=HexaCorps&color=blueviolet&style=flat-square&label=Profile+Views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
 </div>
