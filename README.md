@@ -67,14 +67,6 @@
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=HexaCorps&theme=tokyonight&hide_border=true&background=0d1117)
 
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HexaCorps/HexaCorps/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HexaCorps/HexaCorps/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/HexaCorps/HexaCorps/output/github-snake-dark.svg" width="100%" />
-</picture>
-
 ---
 
 ![views](https://komarev.com/ghpvc/?username=HexaCorps&color=blueviolet&style=flat-square&label=Profile+Views)
